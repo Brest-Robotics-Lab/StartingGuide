@@ -1,2 +1,1 @@
-# StartingGuide
-Как этим пользоваться
+TODO
